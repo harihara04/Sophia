@@ -1,0 +1,5 @@
+SBrowser = Chrome
+SUrl = http://localhost/testlink/login.php
+SUserName = hari
+SPassword = hari123
+STestData = /Sophia/src/test/java/com/ss/TestData/TestData.xlsx
